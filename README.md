@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @saudevteam
+- 👀 I’m interested in technology and software development
+- 🌱 I’m currently learning advanced machine learning techniques
+- 💞️ I’m looking to collaborate on open-source projects that have a positive social impact
+- 📫 How to reach me: saudevteam@sau.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I once coded an entire app during a 24-hour hackathon fueled entirely by coffee!
